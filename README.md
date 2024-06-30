@@ -123,3 +123,12 @@ Recall of testing = 0.8293
 Confusion Matrix:
 
 ![alt text](<Images/download (10).png>)
+
+# **Conclusion**
+This project made by 
+Zeina Wady
+Sara Darwish 
+Ruba AbdELSalam 
+Basmala Ayman
+Sara Habib
+Bassant Ahmed
