@@ -124,11 +124,16 @@ Confusion Matrix:
 
 ![alt text](<Images/download (10).png>)
 
-# **Conclusion**
-This project made by 
+# **Contributors**
+
 Zeina Wady
+
 Sara Darwish 
+
 Ruba AbdELSalam 
+
 Basmala Ayman
+
 Sara Habib
+
 Bassant Ahmed
