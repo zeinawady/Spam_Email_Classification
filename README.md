@@ -49,6 +49,7 @@ Precision of testing = 0.95599
 Recall of testing = 0.80245
 
 Confusion Matrix:
+
 ![Confusion Matrix:](<Images/download (6).png>)
 
 - **Logistic Regression**
@@ -66,6 +67,7 @@ Precision of testing = 0.93939
 Recall of testing = 0.9522
 
 Confusion Matrix:
+
 ![Confusion Matrix:](<Images/download (7).png>)
 
 - **SVM**
@@ -83,6 +85,7 @@ Precision of testing = 0.91536
 Recall of testing = 0.9965
 
 Confusion Matrix:
+
 ![Confusion Matrix:](<Images/download (8).png>)
 
 - **Decision Tree**
@@ -100,6 +103,7 @@ Precision of testing = 0.9078
 Recall of testing = 0.9419
 
 Confusion Matrix:
+
 ![Confusion Matrix:](<Images/download (9).png>)
 
 - **KNN**
@@ -117,4 +121,5 @@ Precision of testing = 0.8379
 Recall of testing = 0.8293
 
 Confusion Matrix:
+
 ![alt text](<Images/download (10).png>)
