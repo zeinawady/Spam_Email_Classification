@@ -1,5 +1,7 @@
 # **Spam Email Classification**
 ![alt text](Images/1_nBgCTU_hAVG00eYkcRf6Mw.png)
+# *Description*
+ a Machine learning model to classify emails as spam or non-spam, leveraging Python and popular libraries. The project involved preprocessing email text data, extracting relevant features, and training classification algorithms to achieve high accuracy in spam detection.
 # *Introduction*
 In today's digital world, spam emails are a constant nuisance. They clog inboxes, waste time, and can even pose security threats containing phishing attempts or malware. This document details the development of a machine learning model designed to tackle this problem by automatically classifying incoming emails as spam or legitimate (ham).
 # *Data Cleaning*
