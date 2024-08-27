@@ -50,48 +50,50 @@ In today's digital world, spam emails are a constant nuisance. They clog inboxes
 
 # *Model Comparison:*
 Tested several algorithms to see which works best:
-- **Naïve Bayes**
 
- -Training Accuracy: 94.00%
- -Testing Accuracy: 93.33%
+  **Naïve Bayes**
 
-Confusion Matrix:
+ - Training Accuracy: 94.00%
+ 
+ - Testing Accuracy: 93.33%
+
+ - Confusion Matrix:
 
 ![Confusion Matrix:](<Images/download (6).png>)
 
-- **Logistic Regression**
+  **Logistic Regression**
 
- - Training Accuracy: 97.00%
- - Testing Accuracy: 96.91%
+  - Training Accuracy: 97.00%
+  - Testing Accuracy: 96.91%
 
-Confusion Matrix:
+  - Confusion Matrix:
 
 ![Confusion Matrix:](<Images/download (7).png>)
 
-- **SVM**
+  **SVM**
 
  - Training Accuracy: 97.34%
  - Testing Accuracy: 97.29%
 
-Confusion Matrix:
+ - Confusion Matrix:
 
 ![Confusion Matrix:](<Images/download (8).png>)
 
-- **Decision Tree**
+  **Decision Tree**
 
  - Training Accuracy: 99.85%
  - Testing Accuracy: 95.60%
 
-Confusion Matrix:
+ - Confusion Matrix:
 
 ![Confusion Matrix:](<Images/download (9).png>)
 
-- **KNN**
+ **KNN**
 
  - Training Accuracy: 95.14%
  - Testing Accuracy: 90.62%
 
-Confusion Matrix:
+ - Confusion Matrix:
 
 ![alt text](<Images/download (10).png>)
 
